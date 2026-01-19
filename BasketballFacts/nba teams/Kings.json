@@ -1,0 +1,43 @@
+{
+    "id": 1610612758,
+    "name": "Sacramento Kings",
+    "abbreviation": "SAC",
+    "location": "Sacramento",
+    "conference": "West",
+    "division": "Pacific",
+    "championships": "1",
+    "all_time_record": "2788-3299",
+    "head_coach": "Doug Christie",
+    "best_record": "61-21",
+    "mascot": "./mascots/Kings.png",
+    "arena": "Golden 1 Center (17,608)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612758/global/L/logo.svg",
+    "Owner": "Vivek Ranadivé",
+    "general_manager": "Scott Perry",
+    "g_league_affiliate": "Stockton Kings",
+    "history": "The franchise is the oldest in the NBA, founded in 1923 as the Rochester Seagrams before relocating to Cincinnati, Kansas City, and finally Sacramento in 1985. They won their only championship in 1951 as the Rochester Royals before decades of moving across the Midwest and West Coast. The team saw a major resurgence in the early 2000s and has recently been revitalized by the 'Light the Beam' tradition at the Golden 1 Center. As Sacramento's only major professional sports team, the Kings possess one of the league's most loyal and vocal home-court fanbases.",
+    "valuation": "$4.45 billion",
+    "retired_numbers": ["1 Archibald", "2 Richmond", "4 Webber", "6 Fans", "11 Davies", "12 Stokes", "14 Robertson", "16 Stojaković", "21 Divac", "27 Twyman", "44 Lacey", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Oscar Robertson (22,009)",
+      "assists": "Oscar Robertson (7,731)",
+      "rebounds": "Sam Lacey (9,353)",
+      "blocks": "Sam Lacey (1,098)",
+      "steals": "Sam Lacey (950)"
+    },
+    "fun_facts": [
+      "The Kings franchise is technically the oldest in the league, tracing its roots back to the Rochester Royals in 1923.",
+      "In 2022, they started the tradition of lighting a giant purple beam into the sky above the arena after every win.",
+      "The 2002 Western Conference Finals between the Kings and Lakers is widely considered one of the most controversial series ever.",
+      "Oscar Robertson, who played for the franchise when they were the Cincinnati Royals, was the first player to average a triple-double.",
+      "They held the record for the longest playoff drought in NBA history (16 years) before breaking it in 2023."
+    ],
+"hof_draftees": [
+        "Oscar Robertson (1960)",
+        "Jerry Lucas (1962)",
+        "Tiny Archibald (1970)",
+        "Jack Twyman (1955)",
+        "Bob Davies (1942)",
+        "Mitch Richmond"
+      ]
+}

@@ -1,0 +1,36 @@
+{
+"id": 1610612739,
+    "name": "Cleveland Cavaliers",
+    "abbreviation": "CLE",
+    "location": "Cleveland",
+    "conference": "East",
+    "division": "Central",
+    "championships": "1",
+    "all_time_record": "2096-2339",
+    "head_coach": "Kenny Atkinson",
+    "best_record": "66-16",
+    "mascot": "./mascots/Cavaliers.png",
+    "arena": "Rocket Mortgage FieldHouse (19,432)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg",
+    "Owner": "Dan Gilbert",
+    "general_manager": "Mike Gansey",
+    "g_league_affiliate": "Cleveland Charge",
+    "history": "Established as an expansion team in 1970, the Cavaliers have spent their entire existence in the Cleveland area, moving from the suburban Richfield Coliseum to downtown in 1994. The franchise reached its pinnacle in 2016 when Akron-native LeBron James led the team to its first NBA title, ending the city's 52-year championship drought. Traditions like 'The Land' branding and the 'Cavalier Girls' have helped build a tight-knit connection with their Northeast Ohio fanbase. The post-championship era has focused on a resilient youth movement and maintaining a competitive presence in the Central Division.",
+    "valuation": "$4.8 billion",
+    "retired_numbers": ["7 Smith", "11 Ilgauskas", "22 Nance", "25 Price", "34 Carr", "42 Thurmond", "43 Daugherty", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "LeBron James (23,119)",
+      "assists": "LeBron James (6,228)",
+      "rebounds": "LeBron James (6,190)",
+      "blocks": "Zydrunas Ilgauskas (1,269)",
+      "steals": "LeBron James (1,376)"
+    },
+    "fun_facts": [
+      "The Cavaliers are the only team in NBA history to overcome a 3-1 deficit in the NBA Finals (2016).",
+      "Their 2016 championship parade attracted an estimated 1.3 million people, vastly exceeding Cleveland's population.",
+      "In the 1970s, the team played at the Richfield Coliseum, which was located in a rural area 20 miles south of Cleveland.",
+      "Mark Price, a Cavs legend, invented the technique of splitting the double team that many guards use today.",
+      "They once traded five players to the 76ers in exchange for one player in 1986, a deal that brought Brad Daugherty to Cleveland."
+    ],
+    "hof_draftees": ["none"]
+}

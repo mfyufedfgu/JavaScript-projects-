@@ -1,0 +1,45 @@
+{
+    "id": 1610612737,
+    "name": "Atlanta Hawks",
+    "abbreviation": "ATL",
+    "location": "Atlanta",
+    "conference": "East",
+    "division": "Southeast",
+    "championships": "1",
+    "all_time_record": "2967-3052",
+    "head_coach": "Quin Snyder",
+    "best_record": "60-22",
+    "mascot": "./mascots/Hawks.png",
+    "arena": "State Farm Arena (16,600)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg",
+    "Owner": "Tony Ressler",
+    "general_manager": "Onsi Saleh",
+    "g_league_affiliate": "College Park Skyhawks",
+    "history": "The franchise was founded in 1946 as the Tri-Cities Blackhawks before moving to Milwaukee in 1951 and then St. Louis in 1955. They achieved their greatest success in St. Louis, winning the 1958 NBA Championship led by Hall of Famer Bob Pettit. The team eventually relocated to Atlanta in 1968, where they became a perennial playoff fixture during the high-flying Dominique Wilkins era of the 1980s. Today, the team is defined by its 'True to Atlanta' culture and a tradition of high-energy guard play in the heart of Georgia.",
+    "valuation": "$5.0 billion",
+    "retired_numbers": ["9 Pettit", "21 Wilkins", "23 Hudson", "40 Collier", "44 Maravich", "55 Mutombo", "59 Reed", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Dominique Wilkins (23,292)",
+      "assists": "Doc Rivers (3,866)",
+      "rebounds": "Bob Pettit (12,849)",
+      "blocks": "Tree Rollins (2,283)",
+      "steals": "Mookie Blaylock (1,321)"
+    },
+    "fun_facts": [
+      "The team was originally named the 'Blackhawks' after the Sauk Indian Chief Black Hawk.",
+      "In 1958, they became the only team to defeat Bill Russell's Boston Celtics in the NBA Finals.",
+      "Spud Webb, at just 5'7, won the 1986 Slam Dunk Contest while playing for Atlanta.",
+      "The 2014-15 Hawks team was so balanced that their entire starting lineup was named 'Player of the Month' in January.",
+      "Legendary owner Ted Turner once coached the team for a single game in 1977 (they lost)."
+    ],
+    "hof_draftees": [
+        "Bill Russell (1956)",
+        "Pau Gasol (2001)",
+        "Bob Pettit (1954)",
+        "Pete Maravich (1970)",
+        "David Thompson (1975)",
+        "Lou Hudson (1966)",
+        "Lenny Wilkens (1960)",
+        "Zelmo Beaty (1962)"
+      ]
+}

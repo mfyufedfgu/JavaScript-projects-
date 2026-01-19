@@ -1,0 +1,39 @@
+{
+     "id": 1610612751,
+    "name": "Brooklyn Nets",
+    "abbreviation": "BKN",
+    "location": "Brooklyn",
+    "conference": "East",
+    "division": "Atlantic",
+    "championships": "0",
+    "all_time_record": "2054-2640",
+    "head_coach": "Jordi Fernandez",
+    "best_record": "52-30",
+    "mascot": "none",
+    "arena": "Barclays Center (17,732)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612751/global/L/logo.svg",
+    "Owner": "Joe Tsai",
+    "general_manager": "Sean Marks",
+    "g_league_affiliate": "Long Island Nets",
+    "history": "The franchise began in 1967 as the New Jersey Americans in the ABA before moving to Long Island as the New York Nets and joining the NBA in 1976. After returning to New Jersey for 35 years and reaching two NBA Finals, the team made a high-profile move to Brooklyn in 2012. This relocation introduced a sleek black-and-white 'Brooklyn' aesthetic that reflects the borough's modern cultural influence. The Nets' history is marked by flashy star power, from Julius Erving in the ABA to the superstar-driven rosters of the modern era.",
+    "valuation": "$5.6 billion",
+    "retired_numbers": ["3 Petrović", "5 Kidd", "15 Carter", "23 Williamson", "25 Melchionni", "32 Erving", "52 Williams", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Brook Lopez (10,444)",
+      "assists": "Jason Kidd (4,620)",
+      "rebounds": "Buck Williams (7,576)",
+      "blocks": "Brook Lopez (972)",
+      "steals": "Jason Kidd (950)"
+    },
+    "fun_facts": [
+      "In 1994, the team almost changed its name to the 'Swamp Dragons' to generate marketing buzz.",
+      "Legendary rapper Jay-Z was a minority owner and was instrumental in the team's rebranding when they moved to Brooklyn.",
+      "Julius 'Dr. J' Erving won three ABA MVP awards while playing for the Nets before the NBA merger.",
+      "The Nets participated in the first-ever regular season NBA games played in London, England, in 2011.",
+      "They are the only franchise to have won championships in the ABA but not yet in the NBA."
+    ],
+    "hof_draftees": [
+        "Bernard King (1977)",
+        "Buck Williams (1981)"
+      ]
+}

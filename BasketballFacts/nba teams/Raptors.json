@@ -1,0 +1,39 @@
+{
+    "id": 1610612761,
+    "name": "Toronto Raptors",
+    "abbreviation": "TOR",
+    "location": "Toronto",
+    "conference": "East",
+    "division": "Atlantic",
+    "championships": "1",
+    "all_time_record": "1126-1266",
+    "head_coach": "Darko Rajaković",
+    "best_record": "59-23",
+    "mascot": "./mascots/Raptors.png",
+    "arena": "Scotiabank Arena (19,800)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612761/global/L/logo.svg",
+    "Owner": "Rogers Communications and Larry Tanenbaum",
+    "general_manager": "Bobby Webster",
+    "g_league_affiliate": "Raptors 905",
+    "history": "Established in 1995, the Raptors are the only current NBA team located outside of the United States. They became a global brand thanks to the high-flying dunks of Vince Carter in the early 2000s, which popularized basketball across Canada. In 2019, led by Kawhi Leonard, the team captured its first NBA Championship, sparking massive 'Jurassic Park' viewing parties nationwide. The franchise is known for its 'We The North' slogan and serving as Canada's team.",
+    "valuation": "$5.4 billion",
+    "retired_numbers": ["15 Carter", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "DeMar DeRozan (13,296)",
+      "assists": "Kyle Lowry (4,277)",
+      "rebounds": "Chris Bosh (4,776)",
+      "blocks": "Chris Bosh (600)",
+      "steals": "Kyle Lowry (873)"
+    },
+    "fun_facts": [
+      "The team name was chosen due to the popularity of the movie 'Jurassic Park' at the time of their founding.",
+      "Vince Carter's performance in the 2000 Slam Dunk Contest is widely considered the greatest individual dunking display ever.",
+      "Superfan Nav Bhatia has attended every single Raptors home game since the team's inception in 1995.",
+      "Rapper Drake serves as the team's 'Global Ambassador' and has his own branded locker at the arena.",
+      "In 2019, they became the first non-US team to win an NBA title."
+    ],
+   "hof_draftees": [
+        "Tracy McGrady (1997)",
+        "Chris Bosh (2003)"
+      ]
+}

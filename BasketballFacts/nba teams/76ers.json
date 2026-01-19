@@ -1,0 +1,44 @@
+{
+    "id": 1610612755,
+    "name": "Philadelphia 76ers",
+    "abbreviation": "PHI",
+    "location": "Philadelphia",
+    "conference": "East",
+    "division": "Atlantic",
+    "championships": "3",
+    "all_time_record": "3125-2898",
+    "head_coach": "Nick Nurse",
+    "best_record": "68-13",
+    "mascot": "./mascots/76ers.png",
+    "arena": "Wells Fargo Center (20,478)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612755/global/L/logo.svg",
+    "Owner": "Josh Harris and David Blitzer",
+    "general_manager": "Elton Brand",
+    "g_league_affiliate": "Delaware Blue Coats",
+    "history": "Originally founded as the Syracuse Nationals in 1946, the franchise relocated to Philadelphia in 1963 and was renamed the 76ers to honor the signing of the Declaration of Independence. The team has a rich history of legendary players, including Wilt Chamberlain and Julius Erving, who led them to titles in 1967 and 1983. Known for the 'Trust the Process' era of the 2010s, the team has a tradition of resilient and often controversial rebuilding strategies. The 76ers remain a deeply ingrained part of Philadelphia's tough, sports-centric identity, playing in one of the league's most intense markets.",
+    "valuation": "$5.45 billion",
+    "retired_numbers": ["2 Malone", "3 Iverson", "4 Schayes", "6 Erving", "10 Cheeks", "13 Chamberlain", "15 Greer", "24 Jones", "32 Cunningham", "34 Barkley", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Hal Greer (21,586)",
+      "assists": "Maurice Cheeks (6,212)",
+      "rebounds": "Dolph Schayes (11,256)",
+      "blocks": "Julius Erving (1,293)",
+      "steals": "Maurice Cheeks (2,066)"
+    },
+    "fun_facts": [
+      "Darryl Dawkins, known as 'Chocolate Thunder,' shattered two backboards in 1979, forcing the NBA to install breakaway rims.",
+      "Moses Malone famously predicted the team would go 'Fo, Fo, Fo' (sweeping all rounds) to win the 1983 title (they went 12-1).",
+      "Allen Iverson, arguably the most culturally influential player of the 2000s, won MVP in 2001 while listed at just 6'0.",
+      "The 'Trust the Process' slogan became a rallying cry for fans during years of intentional tanking to get high draft picks.",
+      "Wilt Chamberlain won three consecutive MVP awards as a 76er from 1966 to 1968."
+    ],
+    "hof_draftees": [
+        "Charles Barkley (1984)",
+        "Allen Iverson (1996)",
+        "Hal Greer (1958)",
+        "Billy Cunningham (1965)",
+        "Maurice Cheeks (1978)",
+        "Chet Walker (1962)",
+        "Dick Barnett (1959)"
+      ]
+}

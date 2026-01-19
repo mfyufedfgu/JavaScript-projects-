@@ -1,0 +1,46 @@
+{
+     "id": 1610612747,
+    "name": "Los Angeles Lakers",
+    "abbreviation": "LAL",
+    "location": "Los Angeles",
+    "conference": "West",
+    "division": "Pacific",
+    "championships": "17",
+    "all_time_record": "3600-2486",
+    "head_coach": "JJ Redick",
+    "best_record": "69-13",
+    "mascot": "none",
+    "arena": "Crypto.com Arena (19,079)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612747/global/L/logo.svg",
+    "Owner": "Jeanie Buss",
+    "general_manager": "Rob Pelinka",
+    "g_league_affiliate": "South Bay Lakers",
+    "history": "The franchise began as the Detroit Gems in 1946 before moving to Minneapolis in 1947 and then finally to Los Angeles in 1960. They became the NBA's glamour franchise during the 'Showtime' era of the 1980s, defined by fast-break basketball and celebrity crowds. With 17 championships and a roster of legends like Magic Johnson, Kobe Bryant, and LeBron James, the Lakers are synonymous with winning. Traditions like the 'Laker Girls' and the star-studded baseline at Crypto.com Arena reflect the team's status as a global icon of sport and entertainment.",
+    "valuation": "$10.0 billion",
+    "retired_numbers": ["8/24 Bryant", "13 Chamberlain", "16 Gasol", "21 Cooper", "22 Baylor", "25 Goodrich", "32 Johnson", "33 Abdul-Jabbar", "34 O'Neal", "42 Worthy", "44 West", "52 Wilkes", "99 Mikan", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Kobe Bryant (33,643)",
+      "assists": "Magic Johnson (10,141)",
+      "rebounds": "Elgin Baylor (11,463)",
+      "blocks": "Kareem Abdul-Jabbar (2,694)",
+      "steals": "Kobe Bryant (1,944)"
+    },
+    "fun_facts": [
+      "Kobe Bryant once scored 81 points in a single game against the Raptors, the second-highest total in NBA history.",
+      "The team name 'Lakers' comes from the team's original home in Minnesota, the 'Land of 10,000 Lakes'.",
+      "Jerry West, a Lakers legend, is the silhouette featured on the official NBA logo.",
+      "The 'Mikan Drill', a fundamental basketball drill used worldwide, is named after their first superstar, George Mikan.",
+      "They are the only team to have a player (Magic Johnson) win Finals MVP in his rookie season."
+    ],
+    "hof_draftees": [
+        "Magic Johnson (1979)",
+        "Jerry West (1960)",
+        "Elgin Baylor (1958)",
+        "James Worthy (1982)",
+        "Gail Goodrich (1965)",
+        "Michael Cooper (1978)",
+        "Vlade Divac (1989)",
+        "Vern Mikkelsen (1949)",
+        "Slater Martin (1949)"
+      ]
+}

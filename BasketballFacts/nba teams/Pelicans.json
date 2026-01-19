@@ -1,0 +1,36 @@
+{
+    "id": 1610612740,
+    "name": "New Orleans Pelicans",
+    "abbreviation": "NOP",
+    "location": "New Orleans",
+    "conference": "West",
+    "division": "Southwest",
+    "championships": "0",
+    "all_time_record": "852-998",
+    "head_coach": "Willie Green",
+    "best_record": "56-26",
+    "mascot": "./mascots/Pelicans.png",
+    "arena": "Smoothie King Center (16,867)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg",
+    "Owner": "Gayle Benson",
+    "general_manager": "Bryson Graham",
+    "g_league_affiliate": "Birmingham Squadron",
+    "history": "The franchise was originally the Charlotte Hornets, relocating to New Orleans in 2002 before rebranding as the Pelicans in 2013 to better reflect local Louisiana culture. During the mid-2000s, the team played several home games in Oklahoma City following the devastation of Hurricane Katrina. The transition to the Pelicans brought a new color scheme of navy, gold, and red, inspired by the state flag and the festive spirit of the city. Today, the team is focused on building a sustainable contender around versatile young stars in the heart of the Gulf South.",
+    "valuation": "$3.55 billion",
+    "retired_numbers": ["7 Maravich", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Anthony Davis (11,059)",
+      "assists": "Chris Paul (4,228)",
+      "rebounds": "Anthony Davis (4,906)",
+      "blocks": "Anthony Davis (1,121)",
+      "steals": "Chris Paul (1,010)"
+    },
+    "fun_facts": [
+      "The 'Pelican' name was chosen because it is the state bird of Louisiana.",
+      "Chris Paul led the league in assists per game twice while playing for New Orleans.",
+      "Their original mascot, 'Pierre the Pelican,' was redesigned in 2014 because fans thought the first version was too scary.",
+      "New Orleans is the smallest market in the NBA by TV household size.",
+      "During Hurricane Katrina, the team was temporarily forced to play home games in Oklahoma City for two seasons."
+    ],
+    "hof_draftees": ["none"]
+}

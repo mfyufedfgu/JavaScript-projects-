@@ -1,0 +1,44 @@
+{
+     "id": 1610612765,
+    "name": "Detroit Pistons",
+    "abbreviation": "DET",
+    "location": "Detroit",
+    "conference": "East",
+    "division": "Central",
+    "championships": "3",
+    "all_time_record": "2871-3209",
+    "best_record": "64-18",
+    "head_coach": "J.B. Bickerstaff",
+    "mascot": "./mascots/Pistons.png",
+    "arena": "Little Caesars Arena (20,332)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg",
+    "Owner": "Tom Gores",
+    "general_manager": "Trajan Langdon",
+    "g_league_affiliate": "Motor City Cruise",
+    "history": "Founded in 1941 as the Fort Wayne Zollner Pistons, the franchise moved to Detroit in 1957 to capitalize on the 'Motor City' market. The team earned three NBA championships (1989, 1990, 2004) by building a legendary 'Bad Boys' reputation centered on physical defense and teamwork. This blue-collar identity remains the core of the franchise's culture, reflected in their move back to downtown Detroit in 2017. Their history is a testament to the city’s resilient spirit, moving through various arenas like the Pontiac Silverdome and The Palace.",
+    "valuation": "$3.65 billion",
+    "retired_numbers": ["1 Billups", "2 Daly", "3 Wallace", "4 Dumars", "10 Rodman", "11 Thomas", "15 Johnson", "16 Lanier", "21 Bing", "32 Hamilton", "40 Laimbeer", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Isiah Thomas (18,822)",
+      "assists": "Isiah Thomas (9,061)",
+      "rebounds": "Bill Laimbeer (9,430)",
+      "blocks": "Ben Wallace (1,486)",
+      "steals": "Isiah Thomas (1,861)"
+    },
+    "fun_facts": [
+      "The team was originally owned by Fred Zollner, who manufactured pistons for car engines, hence the name.",
+      "In 2004, they won the NBA Championship without a single player averaging over 18 points per game.",
+      "Ben Wallace is the only undrafted player in NBA history to be voted a starter in the All-Star Game.",
+      "During the late 1980s, they created 'The Jordan Rules,' a specific defensive strategy designed to stop Michael Jordan.",
+      "They hold the NBA record for largest attendance at a single game: 61,983 fans at the Pontiac Silverdome in 1988."
+    ],
+    "hof_draftees": [
+        "Isiah Thomas (1981)",
+        "Joe Dumars (1985)",
+        "Dennis Rodman (1986)",
+        "Grant Hill (1994)",
+        "Bob Lanier (1970)",
+        "Dave Bing (1966)",
+        "Bailey Howell (1959)"
+      ]
+}

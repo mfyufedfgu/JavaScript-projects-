@@ -1,0 +1,42 @@
+{
+    "id": 1610612749,
+    "name": "Milwaukee Bucks",
+    "abbreviation": "MIL",
+    "location": "Milwaukee",
+    "conference": "East",
+    "division": "Central",
+    "championships": "2",
+    "all_time_record": "2437-2170",
+    "head_coach": "Doc Rivers",
+    "best_record": "66-16",
+    "mascot": "./mascots/Bucks.png",
+    "arena": "Fiserv Forum (17,385)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612749/global/L/logo.svg",
+    "Owner": "Wes Edens and Jimmy Haslam",
+    "general_manager": "Jon Horst",
+    "g_league_affiliate": "Wisconsin Herd",
+    "history": "Founded in 1968, the Bucks secured their first NBA title in just their third season (1971) led by a young Lew Alcindor and Oscar Robertson. The franchise has remained in Milwaukee, moving to the state-of-the-art Fiserv Forum in 2018 to revitalize the city's downtown. After a 50-year wait, they captured a second championship in 2021 behind the historic performance of Giannis Antetokounmpo. The Bucks are defined by a 'Fear the Deer' mentality and a tradition of elite big men that spans from the franchise's inception to the present day.",
+    "valuation": "$4.3 billion",
+    "retired_numbers": ["1 Robertson", "2 Bridgeman", "4 Moncrief", "8 Johnson", "10 Dandridge", "14 McGlocklin", "16 Lanier", "32 Winters", "33 Abdul-Jabbar", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Giannis Antetokounmpo (21,294)",
+      "assists": "Giannis Antetokounmpo (4,435)",
+      "rebounds": "Giannis Antetokounmpo (8,782)",
+      "blocks": "Giannis Antetokounmpo (1,085)",
+      "steals": "Quinn Buckner (1,042)"
+    },
+    "fun_facts": [
+      "The franchise was awarded to Milwaukee in 1968, and the name 'Bucks' was chosen from over 14,000 fan entries.",
+      "Giannis Antetokounmpo scored 50 points in the championship-clinching Game 6 of the 2021 NBA Finals.",
+      "They won a coin flip against the Phoenix Suns in 1969 for the right to draft Lew Alcindor (Kareem Abdul-Jabbar).",
+      "Their 1970s court at the MECCA arena was designed by pop artist Robert Indiana and is considered a piece of art.",
+      "They are the fastest expansion team in North American sports history to win a championship (3 seasons)."
+    ],
+    "hof_draftees": [
+        "Kareem Abdul-Jabbar (1969)",
+        "Dirk Nowitzki (1998)",
+        "Sidney Moncrief (1979)",
+        "Bob Dandridge (1969)",
+        "Marques Johnson (1977)"
+      ]
+}

@@ -1,0 +1,40 @@
+{
+     "id": 1610612762,
+    "name": "Utah Jazz",
+    "abbreviation": "UTA",
+    "location": "Salt Lake City",
+    "conference": "West",
+    "division": "Northwest",
+    "championships": "0",
+    "all_time_record": "2194-1920",
+    "head_coach": "Will Hardy",
+    "best_record": "64-18",
+    "mascot": "./mascots/Jazz.png",
+    "arena": "Delta Center (18,306)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg",
+    "Owner": "Ryan Smith",
+    "general_manager": "Justin Zanik",
+    "g_league_affiliate": "Salt Lake City Stars",
+    "history": "Founded in New Orleans in 1974, the team moved to Salt Lake City in 1979 but kept the 'Jazz' name despite Utah having no jazz history. The franchise became a Western Conference powerhouse in the 1990s behind the pick-and-roll duo of John Stockton and Karl Malone, reaching two NBA Finals. They consistently field competitive teams and enjoy one of the loudest home-court advantages in the league due to the arena's acoustics. The Jazz are known for stability, having had only two head coaches (Jerry Sloan and Quin Snyder) span a 33-year period.",
+    "valuation": "$4.1 billion",
+    "retired_numbers": ["1 Layden", "4 Dantley", "7 Maravich", "12 Stockton", "14 Hornacek", "32 Malone", "35 Griffith", "53 Eaton", "1223 Sloan", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Karl Malone (36,374)",
+      "assists": "John Stockton (15,806)",
+      "rebounds": "Karl Malone (14,601)",
+      "blocks": "Mark Eaton (3,064)",
+      "steals": "John Stockton (3,265)"
+    },
+    "fun_facts": [
+      "The team kept the name 'Jazz' after moving from New Orleans, even though Utah is not known for jazz music.",
+      "John Stockton leads the NBA all-time in both assists and steals, records that are considered nearly unbreakable.",
+      "Mark Eaton holds the NBA record for most blocked shots in a single season with 456.",
+      "Karl Malone and John Stockton played 1,412 regular-season games together, an NBA record for teammates.",
+      "Michael Jordan's famous 'Flu Game' and his 'Last Shot' both occurred against the Jazz in the NBA Finals."
+    ],
+    "hof_draftees": [
+        "Karl Malone (1985)",
+        "John Stockton (1984)",
+        "Dominique Wilkins (1982)"
+      ]
+}

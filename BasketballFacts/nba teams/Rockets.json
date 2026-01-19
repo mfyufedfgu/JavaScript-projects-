@@ -1,0 +1,42 @@
+ {
+ "id": 1610612746,
+    "name": "Houston Rockets",
+    "abbreviation": "HOU",
+    "location": "Houston",
+    "conference": "West",
+    "division": "Southwest",
+    "championships": "2",
+    "all_time_record": "2421-2267",
+    "head_coach": "Ime Udoka",
+    "best_record": "65-17",
+    "mascot": "./mascots/Rockets.png",
+    "arena": "Toyota Center (18,055)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612745/global/L/logo.svg",
+    "Owner": "Tilman Fertitta",
+    "general_manager": "Rafael Stone",
+    "g_league_affiliate": "Rio Grande Valley Vipers",
+    "history": "The franchise was founded in 1967 as the San Diego Rockets before relocating to Houston in 1971 to align with the city's connection to NASA. They achieved back-to-back NBA championships in 1994 and 1995 behind the dominance of Hakeem 'The Dream' Olajuwon. The Rockets have a long tradition of elite center play and advanced analytics, often pushing the boundaries of traditional basketball strategy. Today, the 'Clutch City' spirit lives on as the team builds around a new generation of versatile, high-scoring talent.",
+    "valuation": "$5.9 billion",
+    "retired_numbers": ["11 Ming", "22 Drexler", "23 Murphy", "24 Malone", "34 Olajuwon", "45 Tomjanovich", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Hakeem Olajuwon (26,511)",
+      "assists": "James Harden (4,796)",
+      "rebounds": "Hakeem Olajuwon (13,382)",
+      "blocks": "Hakeem Olajuwon (3,740)",
+      "steals": "Hakeem Olajuwon (2,088)"
+    },
+    "fun_facts": [
+      "Hakeem Olajuwon is the only player in NBA history to record more than 200 blocks and 200 steals in the same season.",
+      "In 2004, Tracy McGrady scored 13 points in the final 33 seconds of a game to beat the San Antonio Spurs.",
+      "Yao Ming, selected #1 overall in 2002, was the first international player to be drafted first without playing US college basketball.",
+      "The team was originally named the 'Rockets' because they were founded in San Diego, where Atlas rockets were manufactured.",
+      "They once missed 27 consecutive three-pointers in a Game 7 of the Western Conference Finals in 2018."
+    ],
+    "hof_draftees": [
+        "Hakeem Olajuwon (1984)",
+        "Yao Ming (2002)",
+        "Elvin Hayes (1968)",
+        "Ralph Sampson (1983)",
+        "Calvin Murphy (1970)"
+      ]
+    }

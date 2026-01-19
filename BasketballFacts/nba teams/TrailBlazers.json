@@ -1,0 +1,41 @@
+{
+    "id": 1610612757,
+    "name": "Portland TrailBlazers",
+    "abbreviation": "POR",
+    "location": "Portland",
+    "conference": "West",
+    "division": "Northwest",
+    "championships": "1",
+    "all_time_record": "2328-2116",
+    "head_coach": "Chauncey Billups",
+    "best_record": "63-19",
+    "mascot": "./mascots/TrailBlazers.png",
+    "arena": "Moda Center (19,393)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg",
+    "Owner": "Jody Allen",
+    "general_manager": "Joe Cronin",
+    "g_league_affiliate": "Rip City Remix",
+    "history": "Founded in 1970, the Trail Blazers captured an NBA title in just their seventh season (1977) during the 'Blazermania' phenomenon led by Bill Walton. The team has never relocated and once held an incredible 814-game sellout streak at the Veterans Memorial Coliseum. Known as 'Rip City,' the franchise is famous for its dedicated fanbase and a history of legendary guard play, most notably from Clyde Drexler and Damian Lillard. The Blazers are a vital part of Portland's cultural fabric, emphasizing a unique connection between the city and its only major professional basketball team.",
+    "valuation": "$4.25 billion",
+    "retired_numbers": ["1 Weinberg", "13 Twardzik", "14 Hollins", "15 Steele", "20 Lucas", "22 Drexler", "30 Porter", "30 Gross", "32 Walton", "36 Neal", "45 Petrie", "77 Ramsay", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Damian Lillard (19,376)",
+      "assists": "Terry Porter (5,319)",
+      "rebounds": "LaMarcus Aldridge (5,434)",
+      "blocks": "Mychal Thompson (768)",
+      "steals": "Clyde Drexler (1,795)"
+    },
+    "fun_facts": [
+      "The team famously drafted Sam Bowie over Michael Jordan with the #2 pick in the 1984 NBA Draft.",
+      "Bill Walton led the team to their only championship in 1977 and won Finals MVP despite sitting out the next season with injury.",
+      "Their home arena held a record streak of 814 consecutive sellouts from 1977 to 1995.",
+      "The nickname 'Rip City' was coined by announcer Bill Schonely after a Jim Barnett shot in the team's first season.",
+      "Damian Lillard hit two series-ending buzzer-beaters in his Blazers career, famously waving goodbye to the Thunder in 2019."
+    ],
+    "hof_draftees": [
+        "Bill Walton (1974)",
+        "Clyde Drexler (1983)",
+        "Arvydas Sabonis (1986)",
+        "Dražen Petrović (1986)"
+      ]
+}

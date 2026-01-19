@@ -1,0 +1,39 @@
+{
+    "id": 1610612743,
+    "name": "Denver Nuggets",
+    "abbreviation": "DEN",
+    "location": "Denver",
+    "conference": "West",
+    "division": "Northwest",
+    "championships": "1",
+    "all_time_record": "2417-2278",
+    "head_coach": "David Adelman",
+    "best_record": "57-25",
+    "mascot": "./mascots/Nuggets.png",
+    "arena": "Ball Arena (19,520)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612743/global/L/logo.svg",
+    "Owner": "Ann Walton Kroenke",
+    "general_manager": "Ben Tenzer",
+    "g_league_affiliate": "Grand Rapids Gold",
+    "history": "Originally founded as the Denver Larks in 1967 as part of the ABA, the team rebranded as the Nuggets before joining the NBA in 1976. The franchise has never relocated, leveraging Denver's high altitude as a unique home-court advantage for decades. After years of high-scoring traditions like 'Run and Gun' basketball, they finally captured their first NBA title in 2023 led by Nikola Jokić. The Nuggets are defined by their Mile High culture and a history of legendary scorers ranging from Alex English to Carmelo Anthony.",
+   "valuation": "$4.6 billion",
+    "retired_numbers": ["2 English", "12 Lever", "33 Thompson", "40 Beck", "44 Issel", "55 Mutombo", "432 Moe", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Alex English (21,645)",
+      "assists": "Nikola Jokić (5,734)",
+      "rebounds": "Nikola Jokić (8,530)",
+      "blocks": "Dikembe Mutombo (1,486)",
+      "steals": "Fat Lever (1,167)"
+    },
+    "fun_facts": [
+      "The team mascot 'Rocky' is the highest-paid mascot in the NBA, reportedly earning over $600,000 per year.",
+      "In 1994, they became the first #8 seed in NBA history to defeat a #1 seed (Seattle SuperSonics) in the playoffs.",
+      "Nikola Jokić, a two-time MVP and Finals MVP, was drafted 41st overall during a Taco Bell commercial.",
+      "Playing at 5,280 feet above sea level, their home court is known for tiring out visiting teams faster than any other arena.",
+      "Their 1980s 'Rainbow Skyline' jerseys are widely considered among the best uniforms in sports history."
+    ],
+    "hof_draftees": [
+        "Carmelo Anthony (2003)",
+        "Dikembe Mutombo (1991)"
+      ]
+}

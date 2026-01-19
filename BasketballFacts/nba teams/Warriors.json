@@ -1,0 +1,49 @@
+{
+    "id": 1610612745,
+    "name": "Golden State Warriors",
+    "abbreviation": "GSW",
+    "location": "San Francisco",
+    "conference": "West",
+    "division": "Pacific",
+    "championships": "7",
+    "all_time_record": "3017-3168",
+    "head_coach": "Steve Kerr",
+    "best_record": "73-9 (League Record)",
+    "mascot": "none",
+    "arena": "Chase Center (18,064)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612744/global/L/logo.svg",
+    "Owner": "Joe Lacob and Peter Guber",
+    "general_manager": "Mike Dunleavy Jr.",
+    "g_league_affiliate": "Santa Cruz Warriors",
+    "history": "Founded as the Philadelphia Warriors in 1946, the team moved to San Francisco in 1962 and later spent nearly 50 years in Oakland as the Golden State Warriors. They returned to a new San Francisco home at Chase Center in 2019 after establishing a modern dynasty with four titles in eight years. The franchise is defined by its revolutionary three-point shooting era led by the 'Splash Brothers' and a tradition of innovative offensive play. As the only team to use a state nickname rather than a city name, they represent the entire Bay Area basketball community.",
+   "valuation": "$11.0 billion",
+    "retired_numbers": ["13 Chamberlain", "14 Meschery", "16 Attles", "17 Mullin", "24 Barry", "42 Thurmond", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Stephen Curry (26,257)",
+      "assists": "Stephen Curry (6,691)",
+      "rebounds": "Nate Thurmond (12,771)",
+      "blocks": "Adonal Foyle (1,140)",
+      "steals": "Stephen Curry (1,589)"
+    },
+    "fun_facts": [
+      "Wilt Chamberlain scored his record-setting 100 points in a single game while playing for the Warriors (then in Philadelphia).",
+      "In 2016, they set the all-time NBA record for wins in a regular season, going 73-9.",
+      "Stephen Curry changed the game of basketball forever by shattering the record for most career 3-pointers.",
+      "They are the only NBA team to not include the name of their city (using 'Golden State' instead) since 1971.",
+      "The 'We Believe' Warriors of 2007 were the first #8 seed to beat a #1 seed in a best-of-7 series."
+    ],
+"hof_draftees": [
+        "Wilt Chamberlain (1959)",
+        "Vince Carter (1998)",
+        "Rick Barry (1965)",
+        "Chris Mullin (1985)",
+        "Robert Parish (1976)",
+        "Mitch Richmond (1988)",
+        "Tim Hardaway (1989)",
+        "Nate Thurmond (1963)",
+        "Jamaal Wilkes (1974)",
+        "Paul Arizin (1950)",
+        "Tom Gola (1955)",
+        "Šarūnas Marčiulionis (1987)"
+      ]
+}

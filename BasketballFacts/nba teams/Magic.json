@@ -1,0 +1,40 @@
+{
+     "id": 1610612753,
+    "name": "Orlando Magic",
+    "abbreviation": "ORL",
+    "location": "Orlando",
+    "conference": "East",
+    "division": "Southeast",
+    "championships": "0",
+    "all_time_record": "1356-1529",
+    "head_coach": "Jamahl Mosley",
+    "best_record": "60-22",
+    "mascot": "./mascots/Magic.png",
+    "arena": "Kia Center (18,846)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg",
+    "Owner": "Dan DeVos",
+    "general_manager": "Anthony Parker",
+    "g_league_affiliate": "Osceola Magic",
+    "history": "Founded as an expansion team in 1989, the Magic have spent their entire history in Orlando and reached the NBA Finals in 1995 and 2009. The team's early years were defined by the 'Shaq and Penny' era, which brought instant global recognition to the young franchise. Traditions like the 'Sixth Man' fan engagement and a focus on community entertainment reflect the team's home in the world's tourism capital. Currently, the Magic are rebuilding with a focus on size and defensive versatility, aiming to bring a first-ever championship to Central Florida.",
+    "valuation": "$3.9 billion",
+    "retired_numbers": ["6 Fans", "32 O'Neal", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Dwight Howard (11,435)",
+      "assists": "Jameer Nelson (3,501)",
+      "rebounds": "Dwight Howard (8,072)",
+      "blocks": "Dwight Howard (1,344)",
+      "steals": "Nick Anderson (1,004)"
+    },
+    "fun_facts": [
+      "Shaquille O'Neal ripped down the entire backboard support during a practice and a game in his rookie season with Orlando.",
+      "Penny Hardaway was so popular in the 90s that his 'Lil Penny' puppet commercials became a pop culture phenomenon.",
+      "Nick Anderson famously missed four consecutive free throws in Game 1 of the 1995 NBA Finals.",
+      "They reached the NBA Finals faster than any other expansion team in history (just 6 years after founding).",
+      "Dwight Howard won the Defensive Player of the Year award three years in a row while playing for the Magic."
+    ],
+    "hof_draftees": [
+        "Shaquille O'Neal (1992)",
+        "Dwight Howard (2004)",
+        "Chris Webber (1993)"
+      ]
+}

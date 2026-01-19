@@ -1,0 +1,149 @@
+#searchInput{
+    width:25%;
+    height:30px;
+    border-radius: 5px;
+    font-size: 30px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.1);
+    color: white;
+    padding: 0 10px;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+#searchInput::placeholder{
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.7);
+}
+#searchInput:focus::placeholder {
+    color: transparent;
+}
+#searchInput:focus {
+    outline: none;
+    border-color: #4CAF50;
+    box-shadow: 0 4px 8px rgba(76, 175, 80, 0.3);
+    width: 30%;
+}
+#search{
+    text-align: center;
+    height: 31px;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    width:80px;
+    font-weight: bold;
+    color: white;
+    border: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Arial Black', Gadget, sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+#search:hover{
+    background-color: #45a049;
+    cursor: pointer;
+    transform: scale(1.1) ;
+    box-shadow: 0 4px 8px rgba(69, 160, 73, 0.3);
+}
+.searchengine{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+    gap: 0;
+}
+body{
+    background-image: url(court-2.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    background-size: 70%; 
+    
+    background-color: #341b35;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+#header{
+    text-align: center;
+    color: white;
+    font-family: 'Arial Black', Gadget, sans-serif;
+    font-size: 70px;
+    grid-column: 2;
+     align-self: start;
+    margin:0;
+    padding: 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    letter-spacing: 2px;
+}
+
+.head{
+    display:grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    width: 100%;
+}
+.fa-house{
+    align-self: start;
+    justify-self: start;
+    cursor: pointer;
+    margin:0;
+    padding: 0;
+    font-size: 30px;
+    color: white;
+    transition: color 0.3s ease;
+}
+.fa-house:hover {
+    color: #4CAF50;
+}
+#team{
+    text-align: center;
+    color: white;
+    font-family: 'Arial Black', Gadget, sans-serif;
+    font-size: 60px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin: 20px 0;
+}
+p{
+    font-size: 20px;
+    color: white;
+    line-height: 1.6;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+    font-family: 'Arial Black', Gadget, sans-serif;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+#mascotLabel{
+      font-size: 20px;
+    color: white;
+    line-height: 1.6;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+    font-family: 'Arial Black', Gadget, sans-serif;
+    letter-spacing: 0.5px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    #searchInput {
+        width: 60%;
+        font-size: 24px;
+    }
+    #searchInput::placeholder {
+        font-size: 20px;
+    }
+    #header {
+        font-size: 50px;
+    }
+    #team {
+        font-size: 40px;
+    }
+    body {
+        background-size: 100%;
+    }
+}

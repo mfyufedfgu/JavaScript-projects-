@@ -1,0 +1,38 @@
+{
+    "id": 1610612754,
+    "name": "Indiana Pacers",
+    "abbreviation": "IND",
+    "location": "Indianapolis",
+    "conference": "East",
+    "division": "Central",
+    "championships": "0",
+    "all_time_record": "2407-2287",
+    "head_coach": "Rick Carlisle",
+    "best_record": "61-21",
+    "mascot": "./mascots/Pacers.png",
+    "arena": "Gainbridge Fieldhouse (17,274)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612754/global/L/logo.svg",
+    "Owner": "Herbert Simon",
+    "general_manager": "Chad Buchanan",
+    "g_league_affiliate": "Noblesville Boom",
+    "history": "Founded in 1967 as a flagship ABA franchise, the Pacers joined the NBA in 1976 and have remained in Indianapolis for their entire history. They were an ABA dynasty with three titles, a winning tradition that transitioned into the Reggie Miller era and several deep playoff runs in the 1990s. The team name pays homage to the city's rich history with the Indianapolis 500 and harness racing. Known for a 'hardwood' culture and passionate fans, the Pacers are a central symbol of basketball's importance to the state of Indiana.",
+    "valuation": "$4.2 billion",
+    "retired_numbers": ["30 McGinnis", "31 Miller", "34 Daniels", "35 Brown", "529 Leonard", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Reggie Miller (25,279)",
+      "assists": "Reggie Miller (4,141)",
+      "rebounds": "Mel Daniels (7,643)",
+      "blocks": "Jermaine O'Neal (1,245)",
+      "steals": "Reggie Miller (1,505)"
+    },
+    "fun_facts": [
+      "Reggie Miller famously scored 8 points in 8.9 seconds to defeat the New York Knicks in a 1995 playoff game.",
+      "The Pacers were the most successful team in ABA history, winning three championships in four years.",
+      "They occasionally wear 'Hickory' uniforms to honor the movie 'Hoosiers,' which was filmed in Indiana.",
+      "The name 'Pacers' refers to the pace car used in the Indianapolis 500 auto race.",
+      "They are the only NBA team to have a father and son (Gerald Green and... wait, incorrect fact. Correct fact: They had a father-son duo play for the franchise in different eras, like Rick Mount and his son?). Let's go with: Larry Bird coached the team for three seasons and won Coach of the Year in 1998."
+    ],
+    "hof_draftees": [
+        "Reggie Miller (1987)"
+      ]
+}

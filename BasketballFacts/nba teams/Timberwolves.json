@@ -1,0 +1,39 @@
+{
+     "id": 1610612750,
+    "name": "Minnesota Timberwolves",
+    "abbreviation": "MIN",
+    "location": "Minneapolis",
+    "conference": "West",
+    "division": "Northwest",
+    "championships": "0",
+    "all_time_record": "1196-1680",
+    "head_coach": "Chris Finch",
+    "best_record": "58-24",
+    "mascot": "./mascots/Timberwolves.png",
+    "arena": "Target Center (18,798)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612750/global/L/logo.svg",
+    "Owner": "Marc Lore and Alex Rodriguez",
+    "general_manager": "Matt Lloyd",
+    "g_league_affiliate": "Iowa Wolves",
+    "history": "Founded in 1989, the Timberwolves returned the NBA to Minnesota nearly three decades after the original Lakers franchise relocated. The team spent much of its history under the leadership of Kevin Garnett, who led them to eight straight playoff appearances and a Western Conference Finals run in 2004. Despite long periods of rebuilding, the franchise has maintained a loyal following at the Target Center in downtown Minneapolis. Today, the 'Wolves' are entering a new era of competitiveness, leaning into a tradition of fierce defensive play and a talented young core.",
+    "valuation": "$3.6 billion",
+    "retired_numbers": ["2 Sealy", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Kevin Garnett (19,201)",
+      "assists": "Kevin Garnett (4,216)",
+      "rebounds": "Kevin Garnett (10,718)",
+      "blocks": "Kevin Garnett (1,590)",
+      "steals": "Kevin Garnett (1,315)"
+    },
+    "fun_facts": [
+      "Kevin Garnett leads the franchise in points, rebounds, assists, blocks, and steals—a rare 'quintuple' leadership.",
+      "The team name was chosen over 'Polars' in a fan contest in 1986.",
+      "Kevin Love once recorded a 30-point, 30-rebound game for the Wolves in 2010, the first in the NBA in 28 years.",
+      "They famously drafted three point guards in the first round of the 2009 draft (Ricky Rubio, Jonny Flynn... and not Stephen Curry).",
+      "Prince, the legendary musician and Minneapolis native, once designed a 'City Edition' jersey for the team."
+    ],
+    "hof_draftees": [
+        "Kevin Garnett (1995)",
+        "Ray Allen (1996)"
+      ]
+}

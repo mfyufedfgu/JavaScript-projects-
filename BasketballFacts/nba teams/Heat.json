@@ -1,0 +1,38 @@
+{
+     "id": 1610612748,
+    "name": "Miami Heat",
+    "abbreviation": "MIA",
+    "location": "Miami",
+    "conference": "East",
+    "division": "Southeast",
+    "championships": "3",
+    "all_time_record": "1558-1409",
+    "head_coach": "Erik Spoelstra",
+    "best_record": "66-16",
+    "mascot": "./mascots/Heat.png",
+    "arena": "Kaseya Center (19,600)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg",
+    "Owner": "Micky Arison",
+    "general_manager": "Andy Elisburg",
+    "g_league_affiliate": "Sioux Falls Skyforce",
+    "history": "Founded as an expansion team in 1988, the Miami Heat have never relocated and have built one of the NBA's most respected cultures. Under the guidance of Pat Riley, they won three championships (2006, 2012, 2013) during eras defined by superstars like Dwyane Wade and LeBron James. The 'Heat Culture' tradition focuses on unmatched conditioning, defensive intensity, and a 'next man up' philosophy. As the most successful post-merger expansion team, they remain a perennial championship threat and a central fixture of South Florida sports culture.",
+    "valuation": "$5.7 billion",
+    "retired_numbers": ["1 Bosh", "3 Wade", "10 Hardaway", "32 O'Neal", "33 Mourning", "40 Haslem", "23 Jordan (Honorary)", "13 Marino (Honorary)", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Dwyane Wade (21,556)",
+      "assists": "Dwyane Wade (5,310)",
+      "rebounds": "Udonis Haslem (5,791)",
+      "blocks": "Alonzo Mourning (1,625)",
+      "steals": "Dwyane Wade (1,492)"
+    },
+    "fun_facts": [
+      "Pat Riley, the team president, famously dumped his championship rings on a table to convince LeBron James to join the team.",
+      "Udonis Haslem spent 20 years with the Heat, the longest tenure by an undrafted player with a single team.",
+      "They retired Michael Jordan's #23 jersey out of respect, even though he never played for Miami.",
+      "The 'Miami Vice' city edition jerseys were the highest-selling alternate jerseys in NBA history.",
+      "In 2013, they won 27 consecutive games, the second-longest winning streak in NBA history."
+    ],
+    "hof_draftees": [
+        "Dwyane Wade (2003)"
+      ]
+}

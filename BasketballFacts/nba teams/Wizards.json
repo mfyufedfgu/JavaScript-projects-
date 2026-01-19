@@ -1,0 +1,43 @@
+{
+     "id": 1610612764,
+    "name": "Washington Wizards",
+    "abbreviation": "WAS",
+    "location": "Washington D.C.",
+    "conference": "East",
+    "division": "Southeast",
+    "championships": "1",
+    "all_time_record": "2290-2879",
+    "head_coach": "Brian Keefe",
+    "best_record": "60-22",
+    "mascot": "./mascots/Wizards.png",
+    "arena": "Capital One Arena (20,356)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg",
+    "Owner": "Ted Leonsis",
+    "general_manager": "Will Dawkins",
+    "g_league_affiliate": "Capital City Go-Go",
+    "history": "The franchise started in Chicago in 1961, then moved to Baltimore, before settling in the D.C. area as the Bullets. They won their only championship in 1978 led by Wes Unseld and Elvin Hayes in a gritty seven-game series. In 1997, owner Abe Pollin changed the name to 'Wizards' due to the violent undertones of 'Bullets.' The team famously hosted Michael Jordan's final comeback from 2001 to 2003. They remain a central part of D.C. sports, playing in the heart of Chinatown.",
+    "valuation": "$4.7 billion",
+    "retired_numbers": ["10 Monroe", "11 Hayes", "25 Johnson", "41 Unseld", "45 Chenier", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Elvin Hayes (15,551)",
+      "assists": "John Wall (5,282)",
+      "rebounds": "Wes Unseld (13,769)",
+      "blocks": "Elvin Hayes (1,558)",
+      "steals": "John Wall (976)"
+    },
+    "fun_facts": [
+      "They changed their name from 'Bullets' to 'Wizards' in 1997 because the owner felt 'Bullets' promoted violence.",
+      "Michael Jordan came out of retirement a second time to play for the Wizards from 2001 to 2003.",
+      "Manute Bol, standing 7'7, and Muggsy Bogues, standing 5'3, were teammates on the Bullets in 1987 (tallest and shortest ever).",
+      "Wes Unseld won Rookie of the Year and League MVP in the same season (1969), a feat only matched by Wilt Chamberlain.",
+      "Gilbert Arenas, known as 'Agent Zero,' once scored 60 points in a game against the Lakers in 2006."
+    ],
+    "hof_draftees": [
+        "Wes Unseld (1968)",
+        "Earl Monroe (1967)",
+        "Walt Bellamy (1961)",
+        "Gus Johnson (1963)",
+        "Rod Thorn (1963)",
+        "Bobby Dandridge (1969)"
+      ]
+}

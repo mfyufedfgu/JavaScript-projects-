@@ -1,0 +1,40 @@
+{
+    "id": 1610612741,
+    "name": "Chicago Bulls",
+    "abbreviation": "CHI",
+    "location": "Chicago",
+    "conference": "East",
+    "division": "Central",
+    "championships": "6",
+    "all_time_record": "2422-2340",
+    "head_coach": "Billy Donovan",
+    "best_record": "72-10",
+    "mascot": "./mascots/Bulls.png",
+    "arena": "United Center (20,917)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612741/global/L/logo.svg",
+    "Owner": "Jerry Reinsdorf",
+    "general_manager": "Marc Eversley",
+    "g_league_affiliate": "Windy City Bulls",
+    "history": "Founded in 1966, the Bulls have remained in Chicago throughout their history, eventually moving to the iconic United Center in 1994. The franchise became a global phenomenon in the 1990s by winning six NBA championships behind the legendary Michael Jordan and Scottie Pippen. This era established traditions like the famous 'Sirius' pre-game introductions and the branding of the Bulls as one of the most recognized sports teams on Earth. Today, the Bulls continue to draw massive crowds, maintaining their status as one of the league's most valuable and supported franchises.",
+    "valuation": "$6.0 billion",
+    "retired_numbers": ["1 Rose", "4 Sloan", "10 Love", "23 Jordan", "33 Pippen", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Michael Jordan (29,277)",
+      "assists": "Michael Jordan (5,012)",
+      "rebounds": "Michael Jordan (5,836)",
+      "blocks": "Artis Gilmore (1,029)",
+      "steals": "Michael Jordan (2,306)"
+    },
+    "fun_facts": [
+      "The Bulls are the only NBA franchise to have never changed their logo since the team was founded.",
+      "They are the only NBA team to have won multiple championships without ever losing an NBA Finals series (6-0).",
+      "In 2011, Derrick Rose became the youngest player in NBA history to win the MVP award at age 22.",
+      "The team's intro music, 'Sirius' by The Alan Parsons Project, is considered the most famous starting lineup theme in sports.",
+      "Michael Jordan famously played Game 5 of the 1997 Finals with food poisoning (The Flu Game) and still scored 38 points."
+    ],
+    "hof_draftees": [
+        "Michael Jordan (1984)",
+        "Artis Gilmore (1971)",
+        "Toni Kukoč (1990)"
+      ]
+}

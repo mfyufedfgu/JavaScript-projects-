@@ -1,0 +1,41 @@
+{
+     "id": 1610612756,
+    "name": "Phoenix Suns",
+    "abbreviation": "PHX",
+    "location": "Phoenix",
+    "conference": "West",
+    "division": "Pacific",
+    "championships": "0",
+    "all_time_record": "2465-2142",
+    "head_coach": "Jordan Ott",
+    "best_record": "64-18",
+    "mascot":"./mascots/Suns.png",
+    "arena": "Footprint Center (16,645)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612756/global/L/logo.svg",
+    "Owner": "Mat Ishbia",
+    "general_manager": "Brian Gregory",
+    "g_league_affiliate": "Valley Suns",
+    "history": "Established as an expansion team in 1968, the Suns have been a mainstay in Phoenix for over 50 years and are one of the most successful franchises to never win a title. They became famous for high-octane offensive systems like the 'Seven Seconds or Less' era of the 2000s, led by Steve Nash. The team’s traditions include a vibrant sunburst aesthetic and one of the league’s most recognizable mascots, 'The Gorilla.' Today, under new ownership, the Suns have moved into an era of aggressive superstar recruitment, continuing their quest for an elusive first championship.",
+    "valuation": "$5.425 billion",
+    "retired_numbers": ["5 Van Arsdale", "6 Davis", "7 Johnson", "9 Majerle", "13 Nash", "24 Chambers", "31 Marion", "32 Stoudemire", "33 Adams", "34 Barkley", "42 Hawkins", "44 Westphal", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Devin Booker (17,386)",
+      "assists": "Steve Nash (6,997)",
+      "rebounds": "Alvan Adams (6,937)",
+      "blocks": "Larry Nance (940)",
+      "steals": "Shawn Marion (1,245)"
+    },
+    "fun_facts": [
+      "Their mascot, 'The Gorilla,' was created by accident when a fan in a gorilla suit entertained the crowd during a timeout in 1980.",
+      "The 'Seven Seconds or Less' offense under coach Mike D'Antoni revolutionized modern basketball pace and spacing.",
+      "The Suns played in the 'greatest game ever played'—a triple-overtime loss to the Celtics in the 1976 NBA Finals.",
+      "They are the winningest NBA franchise to have never won an NBA Championship.",
+      "Devin Booker scored 70 points in a single game against the Celtics in 2017 at the age of 20."
+    ],
+    "hof_draftees": [
+        "Steve Nash (1996)",
+        "George Gervin (1974)",
+        "Walter Davis (1977)",
+        "Charlie Scott (1970)"
+      ]
+}

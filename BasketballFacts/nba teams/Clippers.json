@@ -1,0 +1,39 @@
+{
+"id": 1610612746,
+    "name": "LA Clippers",
+    "abbreviation": "LAC",
+    "location": "Inglewood",
+    "conference": "West",
+    "division": "Pacific",
+    "championships": "0",
+    "all_time_record": "1893-2549",
+    "head_coach": "Tyronn Lue",
+    "best_record": "57-25",
+    "mascot": "./mascots/Clippers.png",
+    "arena": "Intuit Dome (18,000)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612746/global/L/logo.svg",
+    "Owner": "Steve Ballmer",
+    "general_manager": "Trent Redden",
+    "g_league_affiliate": "San Diego Clippers",
+    "history": "Founded in 1970 as the Buffalo Braves, the team moved to San Diego in 1978 and then to Los Angeles in 1984 under the ownership of Donald Sterling. After decades of struggle, the franchise was revitalized by the 'Lob City' era and a change in ownership to Steve Ballmer in 2014. In 2024, the team achieved a long-awaited milestone by moving into their own dedicated arena, the Intuit Dome in Inglewood. This move marks a new chapter focused on stepping out of the Lakers' shadow and establishing a unique, high-tech identity for Clippers fans.",
+    "valuation": "$7.5 billion",
+    "retired_numbers": ["6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Randy Smith (12,735)",
+      "assists": "Chris Paul (4,023)",
+      "rebounds": "DeAndre Jordan (7,988)",
+      "blocks": "DeAndre Jordan (1,277)",
+      "steals": "Randy Smith (1,072)"
+    },
+    "fun_facts": [
+      "The team was named the 'Clippers' in San Diego after the sailing ships that passed through San Diego Bay.",
+      "Bob McAdoo is the only player in franchise history to win the NBA MVP award (1975, while they were the Buffalo Braves).",
+      "Their new arena, the Intuit Dome, features a section called 'The Wall' consisting of 51 uninterrupted rows of fans.",
+      "During the 'Lob City' era, the team was known for spectacular alley-oop dunks from Chris Paul to Blake Griffin and DeAndre Jordan.",
+      "For many years, they had to cover up the Lakers' championship banners during their home games at Staples Center."
+    ],
+    "hof_draftees": [
+        "Bob McAdoo (1972)",
+        "Adrian Dantley (1976)"
+      ]
+    }

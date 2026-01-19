@@ -1,0 +1,41 @@
+{
+     "id": 1610612760,
+    "name": "Oklahoma City Thunder",
+    "abbreviation": "OKC",
+    "location": "Oklahoma City",
+    "conference": "West",
+    "division": "Northwest",
+    "championships": "1",
+    "all_time_record": "2538-2150",
+    "head_coach": "Mark Daigneault",
+    "best_record": "64-18",
+    "mascot": "./mascots/Thunder.png",
+    "arena": "Paycom Center (18,203)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg",
+    "Owner": "Clay Bennett",
+    "general_manager": "Sam Presti",
+    "g_league_affiliate": "Oklahoma City Blue",
+    "history": "The franchise was founded in 1967 as the Seattle SuperSonics, where they won an NBA title in 1979 before relocating to Oklahoma City in 2008. Since the move, the Thunder has established one of the most passionate home-court environments in the league at the Paycom Center. The team is known for an elite scouting tradition that has produced multiple MVPs and a consistent stream of young talent. Today, the Thunder is defined by its 'Loud City' fanbase and a commitment to long-term rebuilding through an unprecedented collection of future draft assets.",
+    "valuation": "$4.35 billion",
+    "retired_numbers": ["1 Williams", "4 Collison", "10 McMillan", "19 Wilkens", "24 Haywood", "32 Brown", "43 Sikma", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Russell Westbrook (18,859)",
+      "assists": "Gary Payton (7,384)",
+      "rebounds": "Jack Sikma (7,729)",
+      "blocks": "Serge Ibaka (1,300)",
+      "steals": "Gary Payton (2,107)"
+    },
+    "fun_facts": [
+      "The Thunder drafted three future MVPs in consecutive years: Kevin Durant (2007), Russell Westbrook (2008), and James Harden (2009).",
+      "Their home arena is nicknamed 'Loud City' because the decibel levels during playoff games rival that of a jet engine.",
+      "Russell Westbrook averaged a triple-double for an entire season three times while playing for OKC.",
+      "The franchise's championship (1979) was won when they were the Seattle SuperSonics.",
+      "They are the only major professional sports team in the state of Oklahoma."
+    ],
+    "hof_draftees": [
+        "Scottie Pippen (1987)",
+        "Gary Payton (1990)",
+        "Dennis Johnson (1976)",
+        "Jack Sikma (1977)"
+      ]
+}

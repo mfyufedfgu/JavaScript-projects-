@@ -1,0 +1,42 @@
+{
+    "id": 1610612752,
+    "name": "New York Knicks",
+    "abbreviation": "NYK",
+    "location": "New York City",
+    "conference": "East",
+    "division": "Atlantic",
+    "championships": "2",
+    "all_time_record": "3025-3162",
+    "head_coach": "Mike Brown",
+    "best_record": "60-22",
+    "mascot": "none",
+    "arena": "Madison Square Garden (19,812)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg",
+    "Owner": "James Dolan",
+    "general_manager": "Gersson Rosas",
+    "g_league_affiliate": "Westchester Knicks",
+    "history": "Founded in 1946, the Knicks are one of only two original NBA franchises to remain in their founding city throughout their entire existence. They reached the height of their success in the early 1970s, winning two championships with a legendary roster that emphasized team-first basketball and elite defense. Playing at Madison Square Garden, the 'World's Most Famous Arena,' the team has a tradition of a knowledgeable and demanding fanbase. The Knicks remain a cornerstone of New York culture, perpetually striving to return to the pinnacle of the NBA from the center of Manhattan.",
+    "valuation": "$9.75 billion",
+    "retired_numbers": ["10 Frazier", "12 Barnett", "15 Monroe", "15 McGuire", "19 Reed", "22 DeBusschere", "24 Bradley", "33 Ewing", "613 Holzman", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Patrick Ewing (23,665)",
+      "assists": "Walt Frazier (4,791)",
+      "rebounds": "Patrick Ewing (10,759)",
+      "blocks": "Patrick Ewing (2,758)",
+      "steals": "Patrick Ewing (1,114)"
+    },
+    "fun_facts": [
+      "The Knicks played in the very first game in NBA history against the Toronto Huskies on November 1, 1946.",
+      "In 2012, 'Linsanity' took over New York when Jeremy Lin went from an unknown bench player to a global superstar in two weeks.",
+      "Spike Lee, the famous movie director, has held courtside season tickets for decades and is part of the team's identity.",
+      "Willis Reed famously limped onto the court with a torn thigh muscle in Game 7 of the 1970 Finals, inspiring a win.",
+      "The name 'Knickerbockers' comes from the style of pants worn by Dutch settlers in 17th-century New York."
+    ],
+    "hof_draftees": [
+        "Patrick Ewing (1985)",
+        "Willis Reed (1964)",
+        "Walt Frazier (1967)",
+        "Bill Bradley (1965)",
+        "Richie Guerin (1954)"
+      ]
+}

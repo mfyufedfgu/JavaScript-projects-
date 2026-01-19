@@ -1,0 +1,52 @@
+{
+    "id": 1610612738,
+    "name": "Boston Celtics",
+    "abbreviation": "BOS",
+    "location": "Boston",
+    "conference": "East",
+    "division": "Atlantic",
+    "championships": "18",
+    "all_time_record": "3695-2501",
+    "head_coach": "Joe Mazzulla",
+    "best_record": "68-14",
+    "mascot": "./mascots/Celtics.png",
+    "arena": "TD Garden (19,156)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg",
+     "Owner": "Bill Chisholm",
+     "general_manager": "Brad Stevens",
+     "g_league_affiliate": "Maine Celtics",
+    "history": "Founded in 1946 as a charter member of the BAA, the Celtics have never relocated and remain one of the NBA's original bedrock franchises. They established a standard of excellence by winning 11 titles in 13 years during the 1950s and 60s under the leadership of Bill Russell. The 'Celtics Pride' tradition continued through the Larry Bird era of the 1980s and culminated in a record-breaking 18th title in 2024. Known for their iconic parquet floor and 'Lucky the Leprechaun' mascot, the team represents the pinnacle of basketball history in New England.",
+  "valuation": "$6.7 billion",
+    "retired_numbers": ["00 Parish", "1 Brown", "2 Auerbach", "3 Johnson", "5 Garnett", "6 Russell", "10 White", "14 Cousy", "15 Heinsohn", "16 Sanders", "17 Havlicek", "18 Cowens", "19 Nelson", "21 Sharman", "22 Macauley", "23 Ramsey", "24 Jones", "25 Jones", "31 Maxwell", "32 McHale", "33 Bird", "34 Pierce", "35 Lewis", "LOSCY Loscutoff"],
+    "franchise_leaders": {
+      "points": "John Havlicek (26,395)",
+      "assists": "Bob Cousy (6,945)",
+      "rebounds": "Bill Russell (21,620)",
+      "blocks": "Robert Parish (1,703)",
+      "steals": "Paul Pierce (1,583)"
+    },
+    "fun_facts": [
+      "The Celtics famously drafted Larry Bird a year early in 1978, utilizing a loophole known as the 'Junior Eligible' rule.",
+      "They won 8 consecutive NBA championships from 1959 to 1966, the longest streak in North American pro sports history.",
+      "The team's iconic parquet floor was originally made from scrap lumber due to wood shortages after World War II.",
+      "Bill Russell served as a player-coach for the team from 1966 to 1969, becoming the first Black head coach in NBA history.",
+      "They were the first NBA team to draft an African-American player, Chuck Cooper, in 1950."
+    ],
+    "hof_draftees": [
+        "Larry Bird (1978)",
+        "Kevin McHale (1980)",
+        "Paul Pierce (1998)",
+        "Chauncey Billups (1997)",
+        "John Havlicek (1962)",
+        "Dave Cowens (1970)",
+        "Bob Cousy (1950)",
+        "Tom Heinsohn (1956)",
+        "Sam Jones (1957)",
+        "K.C. Jones (1958)",
+        "Jo Jo White (1969)",
+        "Dino Radja (1989)",
+        "Frank Ramsey (1953)",
+        "Paul Westphal (1972)",
+        "Chuck Cooper (1950)"
+      ]
+}

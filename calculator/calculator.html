@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="calculator.css">
+</head> 
+<body>
+
+<div id="Calculator">
+    <input id="display" type="text" placeholder="0" disabled>
+    <div id="keys">
+        <button id="btn-2nd" onclick="toggle2nd()">2nd</button>
+        <button id="btn-Radians" onclick="toggleRAD()" class="operator-btn">RAD</button>
+        <button onclick="backspace()" class="operator-btn">⌫</button>
+        <button onclick="clearDisplay()" class="operator-btn">C</button>
+         <button onclick="instantFactorial()" class="operator-btn">!x</button>
+
+        <button id="log-btn" onclick="handleTrig('log')" class="operator-btn">log</button>
+        <button id="sin-btn" onclick="handleTrig('sin')" class="operator-btn">sin</button>
+        <button id="cos-btn" onclick="handleTrig('cos')" class="operator-btn">cos</button>
+        <button id="tan-btn" onclick="handleTrig('tan')" class="operator-btn">tan</button>
+        <button onclick="useAns()" class="operator-btn">PREV</button>
+       
+
+        <button id="ln-btn" onclick="handleTrig('ln')" class="operator-btn">ln</button>
+        <button onclick="appendToDisplay('π')" class="operator-btn">π</button>
+        <button onclick="squareRoot()" class="operator-btn">√</button>
+        <button onclick="appendToDisplay('^')" class="operator-btn">^</button>
+         <button onclick="appendToDisplay('/')">/</button>
+
+        <button onclick="power(2)" class="operator-btn">x²</button>
+        <button onclick="appendToDisplay('(')" class="operator-btn">(</button>
+        <button onclick="appendToDisplay(')')" class="operator-btn">)</button>
+        <button onclick="appendToDisplay('%')" class="operator-btn">%</button>
+        <button onclick="appendToDisplay('*')">*</button>
+
+        <button onclick="power(3)" class="operator-btn">x³</button>
+        <button onclick="appendToDisplay('7')" class="normal-btn">7</button>
+        <button onclick="appendToDisplay('8')" class="normal-btn">8</button>
+        <button onclick="appendToDisplay('9')" class="normal-btn">9</button>
+         <button onclick="appendToDisplay('-')">-</button>
+
+        <button onclick="reciprocal()" class="operator-btn">x⁻¹</button>
+        <button onclick="appendToDisplay('4')" class="normal-btn">4</button>
+        <button onclick="appendToDisplay('5')" class="normal-btn">5</button>
+        <button onclick="appendToDisplay('6')" class="normal-btn">6</button>
+          <button onclick="appendToDisplay('+')">+</button>
+         
+        <button onclick="appendToDisplay('e')" class="operator-btn">e</button>
+        <button onclick="appendToDisplay('1')" class="normal-btn">1</button>
+        <button onclick="appendToDisplay('2')" class="normal-btn">2</button>
+        <button onclick="appendToDisplay('3')" class="normal-btn">3</button>
+          <button onclick="calculate()">=</button>
+
+        <button style="visibility:hidden"></button>
+        <button onclick="appendToDisplay('0')" class="normal-btn">0</button>
+        <button onclick="appendToDisplay('.')" class="normal-btn">.</button>
+        <button onclick="Signchanger()" class="operator-btn normal-btn">±</button>
+        <button style="visibility:hidden"></button>
+    </div>
+</div>
+    <script src="calculator.js"></script>
+</body>   
+</html>

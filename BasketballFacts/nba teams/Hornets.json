@@ -1,0 +1,40 @@
+{
+"id": 1610612766,
+    "name": "Charlotte Hornets",
+    "abbreviation": "CHA",
+    "location": "Charlotte",
+    "conference": "East",
+    "division": "Southeast",
+    "championships": "0",
+    "all_time_record": "1193-1602",
+    "head_coach": "Charles Lee",
+    "best_record": "54-28",
+    "mascot": "./mascots/Hornets.png",
+    "arena": "Spectrum Center (19,077)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612766/global/L/logo.svg",
+    "Owner": "Rick Schnall and Gabe Plotkin",
+    "general_manager": "Jeff Peterson",
+    "g_league_affiliate": "Greensboro Swarm",
+    "history": "The franchise was founded as an expansion team in 1988, later relocating to New Orleans in 2002 before a new expansion team called the Bobcats was formed in 2004. In 2014, the 'Hornets' name and the original franchise history were returned to the city in a landmark branding restoration. The team is beloved for its vibrant teal and purple color scheme and its connection to North Carolina's deep basketball roots. Today, the 'Buzz City' tradition focuses on rebuilding a competitive identity for a loyal and passionate fanbase.",
+    "valuation": "$3.8 billion",
+    "retired_numbers": ["13 Phills", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Kemba Walker (12,009)",
+      "assists": "Muggsy Bogues (5,557)",
+      "rebounds": "Emeka Okafor (3,516)",
+      "blocks": "Alonzo Mourning (684)",
+      "steals": "Muggsy Bogues (1,067)"
+    },
+    "fun_facts": [
+      "Muggsy Bogues, the shortest player in NBA history at 5'3\", played 10 seasons for the Hornets.",
+      "The team name 'Hornets' stems from a Revolutionary War general who described Charlotte as a 'hornet's nest of rebellion.'",
+      "In the early 1990s, the Hornets' teal and purple merchandise was the most popular in the entire NBA.",
+      "NBA legend Michael Jordan was the majority owner of the team from 2010 to 2023.",
+      "Larry Johnson, one of their first stars, famously dressed up as an elderly woman named 'Grandmama' for a Converse commercial."
+    ],
+    "hof_draftees": [
+        "Kobe Bryant (1996)",
+        "Alonzo Mourning (1992)",
+        "Larry Johnson (1991)"
+      ]
+    }

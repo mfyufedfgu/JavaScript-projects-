@@ -1,0 +1,38 @@
+{
+     "id": 1610612742,
+    "name": "Dallas Mavericks",
+    "abbreviation": "DAL",
+    "location": "Dallas",
+    "conference": "West",
+    "division": "Southwest",
+    "championships": "1",
+    "all_time_record": "1836-1789",
+    "best_record": "67-15",
+    "head_coach": "Jason Kidd",
+    "mascot": "./mascots/Mavericks.png",
+    "arena": "American Airlines Center (19,200)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612742/global/L/logo.svg",
+    "Owner": "Miriam Adelson and Patrick Dumont",
+    "general_manager": "Michael Finley",
+    "g_league_affiliate": "Texas Legends",
+    "history": "Founded as an expansion team in 1980, the Mavericks have called Dallas home for their entire history, moving to the American Airlines Center in 2001. The franchise underwent a transformation under the ownership of Mark Cuban, leading to a decade of dominance and a 2011 NBA Championship led by Dirk Nowitzki. The team has a tradition of embracing international stars, a legacy that began with Nowitzki and continues today with Luka Dončić. Known for their 'MFFL' (Mavs Fan For Life) community, the team remains a cornerstone of the North Texas sports landscape.",
+    "valuation": "$5.1 billion",
+    "retired_numbers": ["12 Harper", "15 Davis", "22 Blackman", "41 Nowitzki", "24 Bryant (Honorary)", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Dirk Nowitzki (31,560)",
+      "assists": "Derek Harper (5,111)",
+      "rebounds": "Dirk Nowitzki (11,489)",
+      "blocks": "Dirk Nowitzki (1,281)",
+      "steals": "Derek Harper (1,551)"
+    },
+    "fun_facts": [
+      "Dirk Nowitzki played 21 seasons for the Mavericks, setting an NBA record for most seasons played with a single franchise.",
+      "Mark Cuban bought the team in 2000 for $285 million; the team is now valued at over $5 billion.",
+      "The team name 'Mavericks' was chosen by fans over options like 'Wranglers' and 'Express'.",
+      "They are one of the few teams to have retired a number for a player who never played for them (Brad Davis #15... wait, Brad Davis did play for them. Kobe Bryant #24 is the correct non-player retired number).",
+      "Luka Dončić recorded a 60-point, 20-rebound, 10-assist triple-double in 2022, a feat never before seen in NBA history."
+    ],
+    "hof_draftees": [
+        "Jason Kidd (1994)"
+      ]
+}

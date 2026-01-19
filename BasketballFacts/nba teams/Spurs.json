@@ -1,0 +1,41 @@
+{
+    "id": 1610612759,
+    "name": "San Antonio Spurs",
+    "abbreviation": "SAS",
+    "location": "San Antonio",
+    "conference": "West",
+    "division": "Southwest",
+    "championships": "5",
+    "all_time_record": "2717-1976",
+    "head_coach": "Mitch Johnson",
+    "best_record": "67-15",
+    "mascot": "./mascots/Spurs.png",
+    "arena": "Frost Bank Center (18,418)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612759/global/L/logo.svg",
+    "Owner": "Peter J. Holt",
+    "general_manager": "Brian Wright",
+    "g_league_affiliate": "Austin Spurs",
+    "history": "Originally the Dallas Chaparrals of the ABA, the team moved to San Antonio in 1973 and joined the NBA during the 1976 merger. The franchise became the league’s model of consistency, winning five championships between 1999 and 2014 under coach Gregg Popovich and legend Tim Duncan. The 'Spurs Way' tradition emphasizes teamwork, international scouting, and zero drama. They hold the highest winning percentage of any active NBA franchise.",
+    "valuation": "$4.4 billion",
+    "retired_numbers": ["00 Moore", "6 Johnson", "9 Parker", "12 Bowen", "13 Silas", "20 Ginóbili", "21 Duncan", "32 Elliott", "44 Gervin", "50 Robinson", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Tim Duncan (26,496)",
+      "assists": "Tony Parker (6,829)",
+      "rebounds": "Tim Duncan (15,091)",
+      "blocks": "Tim Duncan (3,020)",
+      "steals": "Manu Ginobili (1,392)"
+    },
+    "fun_facts": [
+      "They made the playoffs for 22 consecutive seasons from 1998 to 2019, matching an NBA record.",
+      "Tim Duncan, Tony Parker, and Manu Ginobili form the winningest trio in NBA history.",
+      "David Robinson recorded a quadruple-double (34 pts, 10 rebs, 10 asts, 10 blks) in a game in 1994.",
+      "Coach Gregg Popovich is the all-time leader in coaching wins in NBA regular season history.",
+      "Manu Ginobili famously swatted a bat out of the air with his bare hand during a game in 2009."
+    ],
+    "hof_draftees": [
+        "Tim Duncan (1997)",
+        "David Robinson (1987)",
+        "Manu Ginóbili (1999)",
+        "Tony Parker (2001)"
+      ]
+}

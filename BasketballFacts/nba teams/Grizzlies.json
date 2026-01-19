@@ -1,0 +1,36 @@
+{
+"id": 1610612763,
+    "name": "Memphis Grizzlies",
+    "abbreviation": "MEM",
+    "location": "Memphis",
+    "conference": "West",
+    "division": "Southwest",
+    "championships": "0",
+    "all_time_record": "1046-1347",
+    "head_coach": "Tuomas Iisalo",
+    "best_record": "56-26",
+    "mascot": "./mascots/Grizzlies.png",
+    "arena": "FedEx Forum (18,400)",
+    "logo": "https://cdn.nba.com/logos/nba/1610612763/global/L/logo.svg",
+    "Owner": "Robert Pera",
+    "general_manager": "Zach Kleiman",
+    "g_league_affiliate": "Memphis Hustle",
+    "history": "Established in 1995 as the Vancouver Grizzlies, the franchise spent six seasons in Canada before relocating to Memphis in 2001. The team found its true identity through the 'Grit and Grind' era of the 2010s, which emphasized tough defense and a blue-collar work ethic. This culture resonated deeply with the Memphis community, turning the FedEx Forum into one of the league's most difficult environments for opponents. Today, the Grizzlies are a young, explosive contender led by dynamic stars, carrying forward the tradition of an underdog spirit in the Western Conference.",
+    "valuation": "$3.5 billion",
+    "retired_numbers": ["9 Allen", "33 M. Gasol", "50 Randolph", "6 Russell (League-wide)"],
+    "franchise_leaders": {
+      "points": "Mike Conley (11,733)",
+      "assists": "Mike Conley (4,509)",
+      "rebounds": "Marc Gasol (5,942)",
+      "blocks": "Marc Gasol (1,135)",
+      "steals": "Mike Conley (1,161)"
+    },
+    "fun_facts": [
+      "They were originally based in Vancouver, Canada, and their original turquoise jerseys are cult favorites.",
+      "The 'Grit and Grind' motto was coined by player Tony Allen during a post-game interview in 2011.",
+      "Pau Gasol was the franchise's first All-Star, and years later, his younger brother Marc Gasol became their best center.",
+      "The team has never had a player score 60 points in a game; Ja Morant holds the record with 52.",
+      "Despite being a newer franchise, they upset the #1 seed San Antonio Spurs in the 2011 playoffs as an 8th seed."
+    ],
+    "hof_draftees": ["none"]
+}
